@@ -1,2 +1,2 @@
 # spearfishing_smb
-Data and code to replicate: Assessing the efficacy of spearfishing as a unique method of suppression of invasive smallmouth bass (<i>Micropterus dolomieu</i>) in Clear Lake, Riding Mountain National Park, Manitoba
+spearfishing_smb.R – R script used to replicate all analysis and figures in main text and appendices. See comments at top for directions prior to running.
