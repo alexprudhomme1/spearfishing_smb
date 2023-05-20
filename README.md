@@ -1,2 +1,2 @@
 # spearfishing_smb
-The data and code associated with Chapter 2 of this MSc thesis are available for review and analysis. 
+Data and code to replicate: Assessing the efficacy of spearfishing as a unique method of suppression of invasive smallmouth bass (<i>Micropterus dolomieu</i>) in Clear Lake, Riding Mountain National Park, Manitoba
